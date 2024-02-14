@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy New Year </h1>
+   <h1> Thank you, Happy New Year 2024 </h1>
 
   
 </form>
